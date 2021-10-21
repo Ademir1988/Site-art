@@ -67,6 +67,6 @@ section img{
     
 }
 section img:hover{
-    background-color: var(--cor-hover);
-    border-radius: 5px;
+    cursor: pointer;
+    
 }
